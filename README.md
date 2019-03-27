@@ -4,6 +4,8 @@
 
 > **NOTE:** This is a very early work in progress.
 
+[![Build Status](https://travis-ci.com/LiberalArtist/racket-realworld-example-app.svg?branch=master)](https://travis-ci.com/LiberalArtist/racket-realworld-example-app)
+
 ### [Demo](https://github.com/gothinkster/realworld)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
 
 
