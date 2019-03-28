@@ -19,6 +19,9 @@
      #:exists 'replace
      (λ (out) (write-bytes png-bytes out)))))
 
+(module test racket/base
+  #|Avoid needing GUI on CI|#)
+
 (define upstream
   (bitmap (read-bitmap upstream-logo.png)))
 
