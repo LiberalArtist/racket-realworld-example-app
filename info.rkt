@@ -11,6 +11,8 @@
 
 (define deps
   '("base"
+    "db"
+    "sql"
     "web-server-lib"))
 (define build-deps
   '("scribble-lib"
